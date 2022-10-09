@@ -1,0 +1,19 @@
+{
+  "name": "restapis",
+  "version": "1.0.0",
+  "description": "weather apis",
+  "main": "weather.js",
+  "scripts": {
+    "start": "node test",
+    "dev": "nodemon weather"
+  },
+  "author": "Uzair",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.8",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.5"
+  }
+}

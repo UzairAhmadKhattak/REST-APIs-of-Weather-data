@@ -1,0 +1,5 @@
+
+{
+    "jwtprivatekey":"weather_jwtprivatekey",
+    "mongos_creds":"weather_mongoscreds"
+}

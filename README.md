@@ -4,7 +4,7 @@
 This project is one of my fun projects. The purpose of this project is to make Rest APIs which provide weather data.
 
 ## Description:
-The idea is that the user has to register first and then he can login and make requests to the APIs. For authorization **JWT** is implemented. So, when the user login he will get back token is response header and every time he wants to request APIs, he must send that toke. The server will check the token and will give him the resource that he wants to access.
+The idea is that the user has to register first and then he can login and make requests to the APIs. For authorization **JWT** is implemented. So, when the user login he will get back token is response header and every time he wants to request APIs, he must send that toke. The server will check the token and will give him the resource that he wants to access. The database used is mongo db.
 
 So, there are different APIs which are given bellow. 
 
